@@ -1,0 +1,4 @@
+select * from mytable
+select myint1 from mytable
+update mytable set mychar1='f' where myint1=44
+select myint1+mypkey from mytable

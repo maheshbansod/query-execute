@@ -1,0 +1,12 @@
+<dbinfo>
+    <psql server="localhost" port="5432">
+        <user>
+            <username>zero</username>
+            <password></password>
+        </user>
+        <user>
+            <username>root</username>
+            <password>rorororoot</password>
+        </user>
+    </psql>
+</dbinfo>
